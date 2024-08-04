@@ -1,5 +1,6 @@
 import "./index.css";
 import "./locales/index.ts";
+import "src/components/dice.tsx";
 
 import React from "react";
 import ReactDOM from "react-dom/client";
